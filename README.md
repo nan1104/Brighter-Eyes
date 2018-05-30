@@ -2,8 +2,7 @@
 实验环境：Windows10/pycharm/python3.6
 依赖库：opencv3, pyqt5
 
-# 1、代码与资源文件说明：
-代码文件 <br>
+# 代码说明：
 eye_process.py：获取眼部特征点坐标，图片二值化，判断睁闭眼 <br>
 MSR.py：对图片进行光照归一化处理，MSR算法的实现 <br>
 video.py ：在pyqt5中播放本地视频 <br>
